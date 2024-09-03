@@ -1,0 +1,42 @@
+{
+    "sectionTitle": "User Testimonials",
+    "testimonials": [
+      {
+        "name": "User name",
+        "testimonial_text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos nemo, laboriosam maxime tempore exercitationem molestiae alias quibusdam placeat fuga esse a. Similique ullam vitae deserunt!",
+        "quote_img1": "https://cdn.builder.io/api/v1/image/assets/TEMP/8d8aefdc77e91a981912d5fea42c535240a2b0ea5c3ca87a245e1a0b3c900c96?apiKey=7477b1c7ade6462aaee4507c7ff5c2c7&",
+        "quote_img2":"images/quotes.png"
+      },
+      {
+        "name": "User name",
+        "testimonial_text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos nemo, laboriosam maxime tempore exercitationem molestiae alias quibusdam placeat fuga esse a. Similique ullam vitae deserunt!",
+        "quote_img1": "https://cdn.builder.io/api/v1/image/assets/TEMP/8d8aefdc77e91a981912d5fea42c535240a2b0ea5c3ca87a245e1a0b3c900c96?apiKey=7477b1c7ade6462aaee4507c7ff5c2c7&",
+        "quote_img2":"images/quotes.png"
+      },
+      {
+        "name": "User name",
+        "testimonial_text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos nemo, laboriosam maxime tempore exercitationem molestiae alias quibusdam placeat fuga esse a. Similique ullam vitae deserunt!",
+        "quote_img1": "https://cdn.builder.io/api/v1/image/assets/TEMP/8d8aefdc77e91a981912d5fea42c535240a2b0ea5c3ca87a245e1a0b3c900c96?apiKey=7477b1c7ade6462aaee4507c7ff5c2c7&",
+        "quote_img2":"images/quotes.png"
+      },
+      {
+        "name": "User name",
+        "testimonial_text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos nemo, laboriosam maxime tempore exercitationem molestiae alias quibusdam placeat fuga esse a. Similique ullam vitae deserunt!",
+        "quote_img1": "https://cdn.builder.io/api/v1/image/assets/TEMP/8d8aefdc77e91a981912d5fea42c535240a2b0ea5c3ca87a245e1a0b3c900c96?apiKey=7477b1c7ade6462aaee4507c7ff5c2c7&",
+        "quote_img2":"images/quotes.png"
+      },
+      {
+        "name": "User name",
+        "testimonial_text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos nemo, laboriosam maxime tempore exercitationem molestiae alias quibusdam placeat fuga esse a. Similique ullam vitae deserunt!",
+        "quote_img1": "https://cdn.builder.io/api/v1/image/assets/TEMP/8d8aefdc77e91a981912d5fea42c535240a2b0ea5c3ca87a245e1a0b3c900c96?apiKey=7477b1c7ade6462aaee4507c7ff5c2c7&",
+        "quote_img2":"images/quotes.png"
+      },
+      {
+        "name": "User name",
+        "testimonial_text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos nemo, laboriosam maxime tempore exercitationem molestiae alias quibusdam placeat fuga esse a. Similique ullam vitae deserunt!",
+        "quote_img1": "https://cdn.builder.io/api/v1/image/assets/TEMP/8d8aefdc77e91a981912d5fea42c535240a2b0ea5c3ca87a245e1a0b3c900c96?apiKey=7477b1c7ade6462aaee4507c7ff5c2c7&",
+        "quote_img2":"images/quotes.png"
+      }
+    ]
+  }
+  

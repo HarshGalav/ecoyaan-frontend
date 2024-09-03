@@ -1,0 +1,63 @@
+{
+    "filters": {
+      "availability": {
+        "in-stock": {
+          "label": "In Stock",
+          "selected": false
+        },
+        "sold-out": {
+          "label": "Sold Out",
+          "selected": false
+        }
+      },
+      "price": {
+        "min": "",
+        "max": ""
+      },
+      "brand": {
+        "brand-a": {
+          "label": "Brand A",
+          "selected": false
+        },
+        "brand-b": {
+          "label": "Brand B",
+          "selected": false
+        },
+        "brand-c": {
+          "label": "Brand C",
+          "selected": false
+        },
+        "brand-d": {
+          "label": "Brand D",
+          "selected": false
+        },
+        "brand-e": {
+          "label": "Brand E",
+          "selected": false
+        }
+      },
+      "color": {
+        "red": {
+          "label": "Red",
+          "selected": false
+        },
+        "blue": {
+          "label": "Blue",
+          "selected": false
+        },
+        "green": {
+          "label": "Green",
+          "selected": false
+        },
+        "yellow": {
+          "label": "Yellow",
+          "selected": false
+        },
+        "black": {
+          "label": "Black",
+          "selected": false
+        }
+      }
+    }
+  }
+  

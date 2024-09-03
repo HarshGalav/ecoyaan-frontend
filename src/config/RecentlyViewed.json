@@ -1,0 +1,128 @@
+{   
+    "product": {
+      "recently_viewed": [
+        {
+          "id": 49,
+          "name": "Product 1",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PJAMUyagG_JE4qWXlCMqLKaqouqBxHDp2Q&s",
+          "rating": 4.5,
+          "reviews_count": 25,
+          "discount": "20% off",
+          "price": 1500,
+          "mrp": 2000,
+          "attributes": [
+          {
+            "name": "Vegan",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Sustainable",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Toxic Free",
+            "img": "/images/leaf.png"
+          }
+        ]
+        },
+        
+        {
+          "id": 50,
+          "name": "Product 2",
+          "image": "https://images.ethicalsuperstore.com/images/homepage/width433/Ethical-superstore-holiday-shop-feature-120624.jpg",
+          "rating": 4.0,
+          "reviews_count": 30,
+          "discount": "15% off",
+          "price": 1200,
+          "mrp": 1400,
+          "attributes": [
+          {
+            "name": "Vegan",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Sustainable",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Toxic Free",
+            "img": "/images/leaf.png"
+          }
+        ]
+        },
+        {
+          "id": 51,
+          "name": "Product 2",
+          "image": "https://images.ethicalsuperstore.com/images/homepage/width433/Ethical-superstore-holiday-shop-feature-120624.jpg",
+          "rating": 4.0,
+          "reviews_count": 30,
+          "discount": "15% off",
+          "price": 1200,
+          "mrp": 1400,
+          "attributes": [
+          {
+            "name": "Vegan",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Sustainable",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Toxic Free",
+            "img": "/images/leaf.png"
+          }
+        ]
+        },
+        {
+          "id": 52,
+          "name": "Product 2",
+          "image": "https://images.ethicalsuperstore.com/images/homepage/width433/Ethical-superstore-holiday-shop-feature-120624.jpg",
+          "rating": 4.0,
+          "reviews_count": 30,
+          "discount": "15% off",
+          "price": 1200,
+          "mrp": 1400,
+          "attributes": [
+          {
+            "name": "Vegan",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Sustainable",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Toxic Free",
+            "img": "/images/leaf.png"
+          }
+        ]
+        },
+        {
+          "id": 54,
+          "name": "Product 3",
+          "image": "https://brownliving.in/cdn/shop/products/walk-in-the-park-tote-bag-verified-sustainable-products-on-brown-living-467606_600x.jpg?v=1702036190",
+          "rating": 3.5,
+          "reviews_count": 15,
+          "discount": "10% off",
+          "price": 800,
+          "mrp": 1000,
+          "attributes": [
+          {
+            "name": "Vegan",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Sustainable",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Toxic Free",
+            "img": "/images/leaf.png"
+          }
+        ]
+        }
+      ]
+    }
+  }
+  

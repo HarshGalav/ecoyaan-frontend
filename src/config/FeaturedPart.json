@@ -1,0 +1,213 @@
+{
+  "sectionTitle": "Featured Products",
+  "featuredProducts": [
+    {
+      "id": 41,
+      "title": "Bare necessity1",
+      "description": "100% vegan & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 4.5,
+      "reviews": 697,
+      "imageUrl": "https://m.media-amazon.com/images/I/7179+pJyL9L._SX679_.jpg",
+      "inStock": true,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Bare necessity2",
+      "description": "100% vegan & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 2.5,
+      "reviews": 597,
+      "imageUrl": "https://images.ethicalsuperstore.com/images/homepage/width433/Ethical-superstore-holiday-shop-feature-120624.jpg",
+      "inStock": true,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Bare necessity3",
+      "description": "100% vegan & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 5,
+      "reviews": 3000,
+      "imageUrl": "https://m.media-amazon.com/images/I/71QaJBTeMrL._AC_UL320_.jpg",
+      "inStock": false,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Bare necessity4",
+      "description": "100% vegan & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 3.6,
+      "reviews": 2897,
+      "imageUrl": "https://brownliving.in/cdn/shop/products/walk-in-the-park-tote-bag-verified-sustainable-products-on-brown-living-467606_600x.jpg?v=1702036190",
+      "inStock": true,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Bare necessity5",
+      "description": "100% vegan & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 4,
+      "reviews": 1897,
+      "imageUrl": "https://brownliving.in/cdn/shop/products/bamboo-stainless-steel-bottle-vaccum-insulated-double-wall-hot-cold-500ml-sustainable-products-on-brown-living-247182_600x.jpg?v=1688224999",
+      "inStock": true,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Bare necessity6",
+      "description": "100% vegan & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 5,
+      "reviews": 997,
+      "imageUrl": "https://www.bybanoo.com/cdn/shop/articles/Optimized-622739F2-5A98-46B4-A18D-ADDE479CEE33.jpg?v=1643714921",
+      "inStock": true,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Women's Day Special Ultimate Sustainable Gift Kit",
+      "description": " & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 4,
+      "reviews": 1897,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrccW4rIcV7PdyAhXsDzrKbdb_jBUYpHYKIBsEDPsHYC830rlJYASSkjJbuJ7aSGSgLVM&usqp=CAU",
+      "inStock": true,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Natural Eco-friendly Reusable ",
+      "description": " & plastic free",
+      "originalPrice": 2990,
+      "discountedPrice": 2999,
+      "discount": "10% off",
+      "rating": 5,
+      "reviews": 997,
+      "imageUrl": "https://m.media-amazon.com/images/I/616RzGKcERL._AC_UL320_.jpg",
+      "inStock": true,
+      "badges": [
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Sustainable"
+        },
+        {
+          "icon": "/images/leaf.png",
+          "label": "Vegan"
+        }
+      ]
+    }
+  ]
+}

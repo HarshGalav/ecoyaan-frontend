@@ -1,0 +1,26 @@
+{
+    "sectionTitle": "Instagram Feeds",
+    "Feeds": [
+
+        {
+          "imageUrl": "https://beebom.com/wp-content/uploads/2018/11/See-Who-Views-Your-Instagram-Profile.jpg",
+          "icon": "PushPinIcon"
+        },
+        {
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*mL356q5W-5TVeket",
+          "icon": "ContentCopyIcon"
+        },
+        {
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*mL356q5W-5TVeket",
+          "icon": "PushPinIcon"
+        },
+        {
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*mL356q5W-5TVeket",
+          "icon": "PushPinIcon"
+        },
+        {
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*mL356q5W-5TVeket",
+          "icon": "PushPinIcon"
+        }
+    ]
+}

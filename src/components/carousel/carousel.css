@@ -1,0 +1,290 @@
+/* .carousel {
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  scroll-snap-type: x mandatory;
+
+  position: relative;
+  height: 600px;
+  top: 8%;
+  transition: 0.6s ease;
+  animation-name: fade;
+}
+
+.carousel.active {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-item {
+  width: 100vw;
+  flex-shrink: 0;
+  scroll-snap-align: start;
+}
+
+.carousel-text {
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 60%;
+  text-align: left;
+  left: 10%;
+  white-space: pre-line;
+  width: 30%;
+}
+
+.button-text {
+  position: absolute;
+  bottom: 50%;
+  text-align: left;
+  left: 11%;
+}
+.longText {
+  width: 55%;
+}
+
+@media (min-width:320px) and (max-width: 480px)  { 
+  .carousel-text {
+    top: 15%;
+    width: 50%;
+    left: 0%;
+  }
+  .button-text {
+    bottom: 17%;
+    left: 3%;
+    font-size: x-small;
+  }
+  .longText {
+    width: 90%;
+  }
+  .aboutus-header {
+    left: unset !important;
+  }
+  .btn-position {
+    bottom: 25%;
+  }
+}
+
+.carousel-images {
+  position: relative;
+  border-radius: 10px;
+  height: 400px;
+  max-width: 650px;
+  margin: auto;
+  overflow: hidden;
+}
+.carousel-images img {
+  width: 99%;
+  height: 99%;
+  border-radius: 8px;
+  border: #ff00008e solid 2px;
+}
+.slide_direction {
+  display: flex;
+  justify-content: space-between;
+}
+.left,
+.right {
+  background-color: #fb666675;
+  color: #fff;
+  padding: 10px 8px 8px 13px;
+  margin: 0 20px;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto 10px;
+  height: 25px;
+  width: 25px;
+}
+.left {
+  left: 0;
+}
+.right {
+  right: 0;
+}
+.carousel-indicator {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.dot {
+  background-color: lightgrey;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin: 5px;
+  cursor: pointer;
+  transition: 0.6s ease;
+}
+.active {
+  background-color: #333;
+  transition: 0.6s ease;
+}
+.indicator {
+  display: flex;
+  left: 45%;
+  position: relative;
+  top: 1%;
+} */
+
+
+.carousel {
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  scroll-snap-type: x mandatory;
+
+  position: relative;
+  /* height: 510px; */
+  top: 8%;
+  transition: 0.6s ease;
+  animation-name: fade;
+}
+
+.carousel.active {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+ 
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+.carousel::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-item {
+  width: 100vw;
+  flex-shrink: 0;
+  scroll-snap-align: start;
+}
+
+.carousel-text {
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 52%;
+  text-align: left;
+  left: 10%;
+  white-space: pre-line;
+  width: 30%;
+}
+
+.button-text {
+  position: absolute;
+  bottom: 45%;
+  text-align: left;
+  left: 11%;
+}
+.longText {
+  width: 77%;
+}
+
+@media (min-width:320px) and (max-width: 480px)  { 
+  .carousel-text {
+    top: 15%;
+    width: 50%;
+    left: 0%;
+  }
+  .button-text {
+
+    bottom: 17%;
+    left: 3%;
+    font-size: x-small;
+  }
+  .longText {
+    width: 90%;
+  }
+  .aboutus-header {
+    left: unset !important;
+  }
+  .btn-position {
+    bottom: 25%;
+  }
+}
+
+.carousel-images {
+  position: relative;
+  border-radius: 10px;
+  height: 400px;
+  max-width: 650px;
+  margin: auto;
+  overflow: hidden;
+}
+.carousel-images img {
+  width: 99%;
+  height: 99%;
+  border-radius: 8px;
+  border: #ff00008e solid 2px;
+}
+.slide_direction {
+  display: flex;
+  justify-content: space-between;
+}
+.left,
+.right {
+  background-color: #fb666675;
+  color: #fff;
+  padding: 10px 8px 8px 13px;
+  margin: 0 20px;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto 10px;
+  height: 25px;
+  width: 25px;
+}
+.left {
+  left: 0;
+}
+.right {
+  right: 0;
+}
+.carousel-indicator {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.dot {
+  background-color: lightgrey;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin: 3px;
+  cursor: pointer;
+  transition: 0.6s ease;
+}
+.active {
+  background-color: #be2e2e;
+  transition: 0.6s ease;
+  /* border: 2px solid gray; */
+}
+.indicator {
+  display: flex;
+  left: 45%;
+  position: relative;
+  top: 1%;
+}

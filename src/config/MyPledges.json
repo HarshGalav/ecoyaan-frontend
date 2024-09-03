@@ -1,0 +1,159 @@
+{
+    "sectionTitle": "My Pledges",
+    "myPledges": [
+      {
+        "title": "Own 5 Sustainable Items",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ratione corporis pariatur voluptatum obcaecati, repudiandae aliquid, consequuntur a quos minima quas cumque at!",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjz9R7KhcbJUTuNOqWC_fUWDpl-OaZvmawqaSVY_dA7PbxL2Xt5cO2WvSmO6y13rBAB2E&usqp=CAU",
+        "taskCompleted": "5/10",
+        "endDate": "7 Aug 2024",
+        "status": "Active",
+        "badges": [
+            {
+                "icon": "/images/leaf.png",
+                "label": "Vegan"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Sustainability"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Recycled"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Toxin-free"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Cruelty-free"
+              }
+        ]
+      },
+      {
+       "title": "Own 5 Sustainable Items",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ratione corporis pariatur voluptatum obcaecati, repudiandae aliquid, consequuntur a quos minima quas cumque at!",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjz9R7KhcbJUTuNOqWC_fUWDpl-OaZvmawqaSVY_dA7PbxL2Xt5cO2WvSmO6y13rBAB2E&usqp=CAU",
+        "taskCompleted": "8/10",
+        "endDate": "15 Sep 2024",
+        "status": "Active",
+        "badges": [
+            {
+                "icon": "/images/leaf.png",
+                "label": "Vegan"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Sustainability"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Recycled"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Toxin-free"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Cruelty-free"
+              }
+        ]
+      },
+      {
+        
+       "title": "Own 5 Sustainable Items",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ratione corporis pariatur voluptatum obcaecati, repudiandae aliquid, consequuntur a quos minima quas cumque at!",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjz9R7KhcbJUTuNOqWC_fUWDpl-OaZvmawqaSVY_dA7PbxL2Xt5cO2WvSmO6y13rBAB2E&usqp=CAU",
+        "taskCompleted": "2/10",
+        "endDate": "22 Oct 2024",
+        "status": "Active",
+        "badges": [
+            {
+                "icon": "/images/leaf.png",
+                "label": "Vegan"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Sustainability"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Recycled"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Toxin-free"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Cruelty-free"
+              }
+        ]
+      },
+      {
+        
+       "title": "Own 5 Sustainable Items",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ratione corporis pariatur voluptatum obcaecati, repudiandae aliquid, consequuntur a quos minima quas cumque at!",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjz9R7KhcbJUTuNOqWC_fUWDpl-OaZvmawqaSVY_dA7PbxL2Xt5cO2WvSmO6y13rBAB2E&usqp=CAU",
+        "taskCompleted": "2/10",
+        "endDate": "22 Oct 2024",
+        "status": "Active",
+        "badges": [
+            {
+                "icon": "/images/leaf.png",
+                "label": "Vegan"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Sustainability"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Recycled"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Toxin-free"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Cruelty-free"
+              }
+        ]
+      },
+      {
+        
+       "title": "Own 5 Sustainable Items",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ratione corporis pariatur voluptatum obcaecati, repudiandae aliquid, consequuntur a quos minima quas cumque at!",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjz9R7KhcbJUTuNOqWC_fUWDpl-OaZvmawqaSVY_dA7PbxL2Xt5cO2WvSmO6y13rBAB2E&usqp=CAU",
+        "taskCompleted": "2/10",
+        "endDate": "22 Oct 2024",
+        "status": "Active",
+        "badges": [
+            {
+                "icon": "/images/leaf.png",
+                "label": "Vegan"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Sustainability"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Recycled"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Toxin-free"
+              },
+              {
+                "icon": "/images/leaf.png",
+                "label": "Cruelty-free"
+              }
+        ]
+      }
+    ]
+  }
+  

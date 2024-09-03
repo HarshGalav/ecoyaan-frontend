@@ -1,0 +1,37 @@
+{
+    "categories": [
+      {
+        "name": "Food & Beverage",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHEdoKjFhq5pqZHyC0b1JHzFC74Ao_rtnshA5xUZzlkXGgk-83S-pPYUukzSPsygRQSc&usqp=CAU"
+      },
+      {
+        "name": "Home Essentials",
+        "image": "https://st4.depositphotos.com/4312829/21192/i/450/depositphotos_211929042-stock-photo-eco-natural-bamboo-toothbrushes-crystal.jpg"
+      },
+      {
+        "name": "Beauty & Personal Care",
+        "image": "https://greenmavenlife.com/wp-content/uploads/2023/03/pant_a_cozy_well-lit_home_office_featuring_a_bamboo_desk_led_de_0bee5e35-6000-49f3-8401-09858cb07b49.png"
+      },
+      {
+        "name": "Bags & Accessories",
+        "image": "https://prakati.in/wp-content/uploads/2020/12/Artella-Handbag-2.jpeg"
+      },
+      {
+        "name": "Mom & Baby",
+        "image": "https://uploads-ssl.webflow.com/615d7c5513b1a337397bbdd7/6169985713f2de2868ea5afe_Pipette%20Baby.jpg"
+      },
+      {
+        "name": "100% Vegan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZlDpNiDJ8NdDpU5AssC7A7oPTWfqH6R25wQxkEjdaWWWwGlHyFvjAE3j8HAjNPfqTy0&usqp=CAU"
+      },
+      {
+        "name": "Cruelty & Toxin Free",
+        "image": "https://www.bigbasket.com/media/uploads/p/xxl/40179905_2-the-moms-co-mom-baby-care-essentials-suitcase-gift-box.jpg"
+      },
+      {
+        "name": "Eco-Friendly & Sustainable",
+        "image": "https://greencommodities.org/wp-content/uploads/2024/03/Eco-Friendly-Organic-Beauty-Care-Products.jpg"
+      }
+    ]
+  }
+  

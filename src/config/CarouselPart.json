@@ -1,0 +1,60 @@
+[
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/1280/10d2/31c4f3b1f7023691a914bb5f1e340069?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q8hzBqyDn-WCTdX39KZESpCK-uDkkNN-klpsbpQrgKqIIBm99wUB~cCrhVwlHSXOAS8pldx5geheRLF97jYr~RgXShqjBbVvuJespGEH9pVuONhrdVlqIp86lHeOigV7KZWAQr~Dju8Wt1tqR7rk2KS9DohjqpyggRO9sMPtJu1psp3Is8qW9MJfESKp4XMS5lsvQTvmianbWyr3sbyTVeykCoLjOMGCC-fn8~DbeC81CfLenANs2za8IOZYqO85fX2svEb7ndG2SdboRnk9HAkmxojBUZD0pVXVv~fTt15zTKsqtogmKubYCO9AAWt2xdXpc5VsI8jWZCiaJKMtMw__",
+      "path": "/about-us",
+      "isExternal": false,
+      "text1": "Make Every Purchase Matter",
+      "buttonText": "About Us"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/0158/88f3/01a1d303b726314e8f86eb3036335931?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a1NJiehUdSFgg7FR~ylglN-FLxvfcGK8RB1TQxePO2loMaAWdEIB0RwNaB3Vf3UOD6NTSgKP-Ro10tNyzlrVZERZiNm16zaLZfWpEzg~eind4D8y3IvM5qGYC8S3LkE7YXTUKNM~iwzOzcQXcdA9NPy~uMzicAaq0eqI11C0NMbselFEY0ksIapT5EXjo3J~9eHfvQd96m~uywDD1C6Lcipok5Uv5N0X6DvFOme91dQwfO8wdunHyr5ukjZT9Fppto6burPF2mhmHRceHtJqaWnnVa9ZBLOCfo7v1MLiLpL5o8cqgrEc7nhdUpIhHNHgSZroqMPZGRqMwmEBsXp9AA__",
+      "isExternal": true,
+      "text1": "Follow us on Instagram",
+      "buttonText": "Follow Us",
+      "buttonStyle": ""
+    },
+    {
+      "image": "/images/carousel-3.png",
+      "path": "/sellOnEcoyaan",
+      "isExternal": false,
+      "text1": "Are you a business that truly cares about sustainability?",
+      "textClass": "longText",
+      "buttonText": "Get In Touch",
+      "imageClass": "img-opacity",
+      "buttonClass": "btn-position"
+    },
+    {
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/041/262/808/small_2x/ai-generated-blossoming-pink-cherry-trees-in-vibrant-spring-meadow-photo.jpg",
+        "path": "/sellOnEcoyaan",
+        "isExternal": false,
+        "text1": "Are you a business that truly cares about sustainability?",
+
+        "textClass": "longText",
+        "buttonText": "Get In Touch",
+        "imageClass": "img-opacity",
+        "buttonClass": "btn-position"
+      },
+      {
+          "image": "https://mytoastlife.com/wp-content/uploads/2022/06/illustration-sustainable-home-products.jpeg",
+          "path": "/sellOnEcoyaan",
+          "isExternal": false,
+          "text1": "Are you a business that truly cares about sustainability?",
+  
+          "textClass": "longText",
+          "buttonText": "Get In Touch",
+          "imageClass": "img-opacity",
+          "buttonClass": "btn-position"
+        },
+        {
+            "image": "https://dutchuncles.in/wp-content/uploads/2022/03/wepik-2022221-18110-1920x1280.jpg",
+            "path": "/sellOnEcoyaan",
+            "isExternal": false,
+            "text1": "Are you a business that truly cares about sustainability?",
+    
+            "textClass": "longText",
+            "buttonText": "Get In Touch",
+            "imageClass": "img-opacity",
+            "buttonClass": "btn-position"
+          }
+  ]
+  

@@ -1,0 +1,46 @@
+{
+    "sectionTitle": "Shop by Attributes",
+    "attribute": [
+      {
+        "name": "Vegan1",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGPc3dSE5o89pOKl5m2EnYE5ZpDwKKzCSoJ9x_KppbqSmIEaEbPHNJa7R5jrH3HGWXHXo&usqp=CAU"
+      },
+      {
+        "name": "Vegan2",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFuFwM0hJi3LeXF7vm4oKq9mpZ1w0s1U-eblUHJWxuairHZrlcL79tMkn3PqA_SoFRWg&usqp=CAU"
+      },
+      {
+        "name": "Vegan3",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpIAN3OFZOexpZncV5P0ieZRHMcF2kz5xD8YuXPZCB7_4qdjLZNYgGNIFSNz0172_oNlU&usqp=CAU"
+      },
+      {
+        "name": "Vegan4",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/e77eb12b-e5a0-48dc-ad2a-4eb73b0c68f1/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Best+Sustainable+Vegan+Shoes.jpg"
+      },
+      {
+        "name": "Vegan5",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzkMRJ3PZV3ZBu81yugMmo2piqUYDibeoMUaRKG_6ONZeHZdpvGX6tLhvxa_FavBzdDBE&usqp=CAU"
+      },
+      {
+        "name": "Vegan6",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://www.unitestudents.com/UniteStudents/media/CommonRoom/2020/2/simple-cups2.jpg"
+      },
+      {
+        "name": "Vegan7",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://image.made-in-china.com/202f0j00mRfUjGJdhYuH/100-Natural-BPA-Free-Vegan-Bamboo-Utensil-Tableware-with-Customs-Logo-Engraved.webp"
+      },
+      {
+        "name": "Vegan8",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/e77eb12b-e5a0-48dc-ad2a-4eb73b0c68f1/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Best+Sustainable+Vegan+Shoes.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "pledgeStatus": {
+      "heading": "Pledge Status",
+      "active": {
+        "count": "02",
+        "description": "Active"
+      },
+      "completed": {
+        "count": "10",
+        "description": "Completed"
+      }
+    }
+  }
+  

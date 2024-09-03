@@ -1,0 +1,60 @@
+{
+    "reviews": [
+      {
+        "customerName": "Ranjana",
+        "rating": 4.5,
+        "ratingDescription": "Good Product",
+        "reviewedDate": "2024-05-12",
+        "colorChosen": "Red",
+        "verifiedPurchase": true,
+        "ReviewedCountry": "Reviewed in India",
+        "customerReview": "The product quality is excellent, and the color looks vibrant. Delivery was prompt and packaging was intact.",
+        "helpfulCount": 23
+      },
+      {
+        "customerName": "Avi Bisht",
+        "rating": 2,
+        "ratingDescription": "Bad Product",
+        "reviewedDate": "2024-05-08",
+        "colorChosen": "Blue",
+        "verifiedPurchase": false,
+        "ReviewedCountry": "Reviewed in India",
+        "customerReview": "The product did not meet my expectations. The color was off, and it felt cheaply made.",
+        "helpfulCount": 10
+      },
+      {
+        "customerName": "Prerna Goswami",
+        "rating": 5,
+        "ratingDescription": "Good Product",
+        "reviewedDate": "2024-06-01",
+        "colorChosen": "Green",
+        "verifiedPurchase": true,
+        "ReviewedCountry": "Reviewed in India",
+        "customerReview": "Absolutely love it! The quality is top-notch, and the color is exactly as shown in the pictures.",
+        "helpfulCount": 35
+      },
+      {
+        "customerName": "Ecoyaan Customer",
+        "rating": 1.5,
+        "ratingDescription": "Bad Product",
+        "reviewedDate": "2024-04-20",
+        "colorChosen": "Black",
+        "verifiedPurchase": true,
+        "ReviewedCountry": "Reviewed in India",
+        "customerReview": "Very disappointed with this product. The color faded after a few washes, and it shrunk significantly.",
+        "helpfulCount": 5
+      },
+      {
+        "customerName": "Vihan Roy",
+        "rating": 4,
+        "ratingDescription": "Good Product",
+        "reviewedDate": "2024-05-15",
+        "colorChosen": "Yellow",
+        "verifiedPurchase": false,
+        "ReviewedCountry": "Reviewed in Singapore",
+        "customerReview": "The product is good, but the delivery was delayed. The color is nice, and it fits well.",
+        "helpfulCount": 18
+      }
+    ]
+  }
+  

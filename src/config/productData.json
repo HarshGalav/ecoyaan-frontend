@@ -1,0 +1,391 @@
+{
+  "product": {
+    "id": 1,
+    "name": "Water Bottle",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam exercitationem necessitatibus dolorum odit.",
+    "reviews_count": 213,
+    "purchased_last_month": 50,
+    "rating": 2.5,
+    "image": "https://api.time.com/wp-content/uploads/2018/11/larq-sustainable-product.jpg?quality=85",
+    "thumbnails": [
+      {
+        "url": "https://api.time.com/wp-content/uploads/2018/11/larq-sustainable-product.jpg?quality=85",
+        "price": 1999,
+        "mrp": 2000,
+        "discount": "-40%",
+        "colors": [
+          {
+            "img": "https://m.media-amazon.com/images/I/81OJGIYiTqS._AC_UF1000,1000_QL80_.jpg",
+            "available": true
+          },
+          {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOydvUsQEazYvRg5RSE58Sd5zjQp-SJUoMcA&s",
+            "available": false
+          }
+        ],
+        "sizes": [
+          {
+            "size": "xs",
+            "available": false
+          },
+          {
+            "size": "md",
+            "available": false
+          },
+          {
+            "size": "lg",
+            "available": false
+          }
+        ]
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfiprMsn915mGgAQsXkNz_9Tcm7o0jfibuE48-139bBUxs-KXDlfa6Bs6iAnwCH8K-vM&usqp=CAU",
+        "price": 1899,
+        "mrp": 1950,
+        "discount": "-35%",
+        "colors": [
+          {
+            "img": "https://m.media-amazon.com/images/I/81OJGIYiTqS._AC_UF1000,1000_QL80_.jpg",
+            "available": false
+          },
+          {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOydvUsQEazYvRg5RSE58Sd5zjQp-SJUoMcA&s",
+            "available": true
+          }
+        ],
+        "sizes": [
+          {
+            "size": "xs",
+            "available": false
+          },
+          {
+            "size": "md",
+            "available": false
+          },
+          {
+            "size": "lg",
+            "available": false
+          }
+        ]
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oAUOeg2AL1Edpe5ZpwfSyCAwx41ifzuJ00sKQ5dQjXJFvZh_Pftvzh2hC7bKA6AYtUc&usqp=CAU",
+        "price": 1799,
+        "mrp": 1850,
+        "discount": "-30%",
+        "colors": [
+          {
+            "img": "https://api.time.com/wp-content/uploads/2018/11/larq-sustainable-product.jpg?quality=85",
+            "available": false
+          },
+          {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOydvUsQEazYvRg5RSE58Sd5zjQp-SJUoMcA&s",
+            "available": true
+          }
+        ],
+        "sizes": [
+          {
+            "size": "xs",
+            "available": false
+          },
+          {
+            "size": "md",
+            "available": false
+          },
+          {
+            "size": "lg",
+            "available": false
+          }
+        ]
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8S0X6LSt9vlRIQQdzV5T6oa_kEhmClY8V8aN4SOYXNggVuCMEXtgUmMbFRB-oIUHcFw&usqp=CAU",
+        "price": 1699,
+        "mrp": 1750,
+        "discount": "-25%",
+        "colors": [
+          {
+            "img": "https://m.media-amazon.com/images/I/81OJGIYiTqS._AC_UF1000,1000_QL80_.jpg",
+            "available": true
+          },
+          {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOydvUsQEazYvRg5RSE58Sd5zjQp-SJUoMcA&s",
+            "available": true
+          }
+        ],
+        "sizes": [
+          {
+            "size": "xs",
+            "available": false
+          },
+          {
+            "size": "md",
+            "available": false
+          },
+          {
+            "size": "lg",
+            "available": false
+          }
+        ]
+      }
+    ],
+    "price": 1999,
+    "mrp": 2000,
+    "discount": "-40%",
+    "colors": [
+      {
+        "img": "https://m.media-amazon.com/images/I/81OJGIYiTqS._AC_UF1000,1000_QL80_.jpg",
+        "available": true
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOydvUsQEazYvRg5RSE58Sd5zjQp-SJUoMcA&s",
+        "available": true
+      }
+    ],
+    "sizes": [
+      {
+        "size": "xs",
+        "available": false
+      },
+      {
+        "size": "md",
+        "available": false
+      },
+      {
+        "size": "lg",
+        "available": false
+      }
+    ],
+    "details": {
+      "capacity": "2 liter",
+      "care_instructions": "Hand Wash Only",
+      "recommended_uses": "Daily use, sports, travel",
+      "country_of_origin": "India"
+    },
+    "attributes": [
+      {
+        "name": "Vegan",
+        "img": "/images/leaf.png"
+      },
+      {
+        "name": "Sustainable",
+        "img": "/images/carbon.png"
+      },
+      {
+        "name": "Toxic Free",
+        "img": "/images/toxic_free.png"
+      },
+      {
+        "name": "Toxic Free",
+        "img": "/images/toxic_free.png"
+      },
+      {
+        "name": "Toxic Free",
+        "img": "/images/toxic_free.png"
+      }
+    ],
+    "about": [
+      "Package Content - Set of 1 Pcs Fridge Water Bottle, Material : Stainless Steel, Sipper Cap Capacity : 1000 ML, Color : Dual-Pink-Blue",
+      "Why This -: These 1000 Ml Bottle Can Be Best Water Bottles That Can Be Gifted As Travel Water Bottle Or Drinking Water Bottle Or School Bottle Or Car Water Bottles Or Office, School, Home, Or Gym.",
+      "Stainless Steel Sipper Bottle - This Is Not A Copper Water Bottle, Thermos Flask, Temperature Bottle, Thermosteel Bottle. This Is Sipper Bottle For Adults. Water Bottles 1000Ml Is Easy To Carry",
+      "Water Bottle For Kids - Water bottles for school are steel bottle Half litre. These can be Kids water bottle for school. These can be fancy water bottles for boys or cute water bottles for Girls"
+    ],
+    "product_Features": {
+        "heading": "Product Features",
+        "features": [
+          "Material Quality: Made from high-grade, BPA-free plastic or premium glass, ensuring durability and safety.",
+          "Eco-Friendly: Designed with sustainability in mind, often made from recyclable or reusable materials.",
+          "Leak-Proof Design: Features a secure, airtight seal to prevent leaks and spills, making it perfect for on-the-go use.",
+          "Ergonomic Shape: Contoured for a comfortable grip, making it easy to hold and use.",
+          "Versatile Usage: Suitable for various purposes, including storing water, juices, oils, or decorative uses.",
+          "Wide Mouth Opening: Allows for easy filling, pouring, and cleaning, accommodating ice cubes and bottle brushes.",
+          "Stylish Design: Available in a range of colors and styles, adding a touch of elegance and personalization to your storage solutions."
+        ]
+    },
+    "more_products": [
+      {
+        "id": 1,
+        "name": "Water Bottle",
+        "rating": 4,
+        "reviews_count": 221,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing  necessitatibus dolorum odit.",
+        "price": 1999,
+        "image": "https://sc04.alicdn.com/kf/Hd218e98a63064b78b806625b05647fd6b.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bottle",
+        "rating": 4,
+        "reviews_count": 221,
+        "description": "Innovative smartwatch with fitness tracking and notifications.",
+        "price": 5999,
+        "image": "https://sc04.alicdn.com/kf/Hd218e98a63064b78b806625b05647fd6b.jpg"
+    }
+    ],
+    "related_products": [
+      {
+        "id": 3,
+        "name": "Product name 1",
+        "description": "Description of the product Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut vulputate orci.",
+        "price": 1999,
+        "mrp": 2096,
+        "discount": "-40%",
+        "rating": 4,
+        "reviews_count": 221,
+        "attributes": [
+          {
+            "name": "Vegan",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Sustainable",
+            "img": "/images/carbon.png"
+          },
+          {
+            "name": "Toxic Free",
+            "img": "/images/toxic_free.png"
+          }
+        ],
+        "image": "https://s3-alpha-sig.figma.com/img/96e0/1308/23e1b6ab61954177036d7ec63151c107?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XkAVwZ6YE-CwWTvy6zsi1YWU5wAqid090xO3OxwNiWdIlgPvtphxL3-uVKFmgfcKjx6tC1nC7fz-6W10UPFBcjFYn9C6b00qtWXq1~~X2EseWjdEedzXpH0~k3jLjW4IOclR~qYWJHGG0HWuc3iRxbtk75q~~4vbIMheY4eG5cLtaccKJywn9uazrGHGMuGAsGwijO4yRHPKnjjw9ECPNd-DLyPSRvAlPL6uGjcCJZDkNEFfq8NUBAqmEPqM7u2R~LvVId0b8EAY-5C1j6~pyhMgxrbqokvw07Vh-786oAP1Mz3VGEPTxsdqEKgSgfuRIcAUAfFng0WPxUWSGHbcYQ__"
+      },
+      {
+        "id": 4,
+        "name": "Product name 2",
+        "description": "Description of the product Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut vulputate orci.",
+        "price": 1530,
+        "mrp": 2000,
+        "discount": "-40%",
+        "rating": 2,
+        "reviews_count": 180,
+         "attributes": [
+      {
+        "name": "Vegan",
+        "img": "/images/leaf.png"
+      },
+      {
+        "name": "Sustainable",
+        "img": "/images/carbon.png"
+      },
+      {
+        "name": "Toxic Free",
+        "img": "/images/toxic_free.png"
+      }
+    ],
+        "image": "https://s3-alpha-sig.figma.com/img/96e0/1308/23e1b6ab61954177036d7ec63151c107?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XkAVwZ6YE-CwWTvy6zsi1YWU5wAqid090xO3OxwNiWdIlgPvtphxL3-uVKFmgfcKjx6tC1nC7fz-6W10UPFBcjFYn9C6b00qtWXq1~~X2EseWjdEedzXpH0~k3jLjW4IOclR~qYWJHGG0HWuc3iRxbtk75q~~4vbIMheY4eG5cLtaccKJywn9uazrGHGMuGAsGwijO4yRHPKnjjw9ECPNd-DLyPSRvAlPL6uGjcCJZDkNEFfq8NUBAqmEPqM7u2R~LvVId0b8EAY-5C1j6~pyhMgxrbqokvw07Vh-786oAP1Mz3VGEPTxsdqEKgSgfuRIcAUAfFng0WPxUWSGHbcYQ__"
+      },
+      {
+        "id": 5,
+        "name": "Product name 1",
+        "description": "Description of the product Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut vulputate orci.",
+        "price": 1999,
+        "mrp": 2096,
+        "discount": "-40%",
+        "rating": 4,
+        "reviews_count": 221,
+         "attributes": [
+      {
+        "name": "Vegan",
+        "img": "/images/leaf.png"
+      },
+      {
+        "name": "Sustainable",
+        "img": "/images/carbon.png"
+      },
+      {
+        "name": "Toxic Free",
+        "img": "/images/toxic_free.png"
+      }
+    ],
+        "image": "https://s3-alpha-sig.figma.com/img/96e0/1308/23e1b6ab61954177036d7ec63151c107?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XkAVwZ6YE-CwWTvy6zsi1YWU5wAqid090xO3OxwNiWdIlgPvtphxL3-uVKFmgfcKjx6tC1nC7fz-6W10UPFBcjFYn9C6b00qtWXq1~~X2EseWjdEedzXpH0~k3jLjW4IOclR~qYWJHGG0HWuc3iRxbtk75q~~4vbIMheY4eG5cLtaccKJywn9uazrGHGMuGAsGwijO4yRHPKnjjw9ECPNd-DLyPSRvAlPL6uGjcCJZDkNEFfq8NUBAqmEPqM7u2R~LvVId0b8EAY-5C1j6~pyhMgxrbqokvw07Vh-786oAP1Mz3VGEPTxsdqEKgSgfuRIcAUAfFng0WPxUWSGHbcYQ__"
+      },
+      {
+        "id": 6,
+        "name": "Product name 2",
+        "description": "Description of the product Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut vulputate orci.",
+        "price": 1530,
+        "mrp": 2000,
+        "discount": "-40%",
+        "rating": 2,
+        "reviews_count": 180,
+         "attributes": [
+      {
+        "name": "Vegan",
+        "img": "/images/leaf.png"
+      },
+      {
+        "name": "Sustainable",
+        "img": "/images/carbon.png"
+      },
+      {
+        "name": "Toxic Free",
+        "img": "/images/toxic_free.png"
+      }
+    ],
+        "image": "https://s3-alpha-sig.figma.com/img/96e0/1308/23e1b6ab61954177036d7ec63151c107?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XkAVwZ6YE-CwWTvy6zsi1YWU5wAqid090xO3OxwNiWdIlgPvtphxL3-uVKFmgfcKjx6tC1nC7fz-6W10UPFBcjFYn9C6b00qtWXq1~~X2EseWjdEedzXpH0~k3jLjW4IOclR~qYWJHGG0HWuc3iRxbtk75q~~4vbIMheY4eG5cLtaccKJywn9uazrGHGMuGAsGwijO4yRHPKnjjw9ECPNd-DLyPSRvAlPL6uGjcCJZDkNEFfq8NUBAqmEPqM7u2R~LvVId0b8EAY-5C1j6~pyhMgxrbqokvw07Vh-786oAP1Mz3VGEPTxsdqEKgSgfuRIcAUAfFng0WPxUWSGHbcYQ__"
+      },
+      {
+        "id": 7,
+        "name": "Product name 1",
+        "description": "Description of the product Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut vulputate orci.",
+        "price": 1999,
+        "mrp": 2096,
+        "discount": "-40%",
+        "rating": 4,
+        "reviews_count": 221,
+         "attributes": [
+      {
+        "name": "Vegan",
+        "img": "/images/leaf.png"
+      },
+      {
+        "name": "Sustainable",
+        "img": "/images/carbon.png"
+      },
+      {
+        "name": "Toxic Free",
+        "img": "/images/toxic_free.png"
+      }
+    ],
+        "image": "https://s3-alpha-sig.figma.com/img/96e0/1308/23e1b6ab61954177036d7ec63151c107?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XkAVwZ6YE-CwWTvy6zsi1YWU5wAqid090xO3OxwNiWdIlgPvtphxL3-uVKFmgfcKjx6tC1nC7fz-6W10UPFBcjFYn9C6b00qtWXq1~~X2EseWjdEedzXpH0~k3jLjW4IOclR~qYWJHGG0HWuc3iRxbtk75q~~4vbIMheY4eG5cLtaccKJywn9uazrGHGMuGAsGwijO4yRHPKnjjw9ECPNd-DLyPSRvAlPL6uGjcCJZDkNEFfq8NUBAqmEPqM7u2R~LvVId0b8EAY-5C1j6~pyhMgxrbqokvw07Vh-786oAP1Mz3VGEPTxsdqEKgSgfuRIcAUAfFng0WPxUWSGHbcYQ__"
+      },
+      {
+        "id": 8,
+        "name": "Product name 2",
+        "description": "Description of the product Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut vulputate orci.",
+        "price": 1530,
+        "mrp": 2000,
+        "discount": "-40%",
+        "rating": 2,
+        "reviews_count": 180,
+         "attributes": [
+          {
+            "name": "Vegan",
+            "img": "/images/leaf.png"
+          },
+          {
+            "name": "Sustainable",
+            "img": "/images/carbon.png"
+          },
+          {
+            "name": "Toxic Free",
+            "img": "/images/toxic_free.png"
+          }
+    ],
+        "image": "https://s3-alpha-sig.figma.com/img/96e0/1308/23e1b6ab61954177036d7ec63151c107?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XkAVwZ6YE-CwWTvy6zsi1YWU5wAqid090xO3OxwNiWdIlgPvtphxL3-uVKFmgfcKjx6tC1nC7fz-6W10UPFBcjFYn9C6b00qtWXq1~~X2EseWjdEedzXpH0~k3jLjW4IOclR~qYWJHGG0HWuc3iRxbtk75q~~4vbIMheY4eG5cLtaccKJywn9uazrGHGMuGAsGwijO4yRHPKnjjw9ECPNd-DLyPSRvAlPL6uGjcCJZDkNEFfq8NUBAqmEPqM7u2R~LvVId0b8EAY-5C1j6~pyhMgxrbqokvw07Vh-786oAP1Mz3VGEPTxsdqEKgSgfuRIcAUAfFng0WPxUWSGHbcYQ__"
+      }
+    ]
+  },
+    "seller": {
+        "title": "About the Seller",
+        "content": [
+          {
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd70e94e-3cdc-4f9f-93d2-dbc33deca036.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "heading": "THE SELLER",
+            "description": "The bottle seller, a seasoned entrepreneur with a keen eye for quality, has been in the business for over a decade. Starting out as a small vendor at local markets, the seller has grown their enterprise into a reputable source for a diverse range of bottles, catering to various needs and preferences. Their inventory includes everything from elegant glass bottles for home decor to sturdy plastic bottles for everyday use. Cello has been with you, serving you, accompanying you for generations, in each and every space of your home, from living room to dining room, bedroom to the bathroom. You have made us a part of your family. We want to strengthen this relationship by serving you more. Our products will help you spend great times with your loved ones, by making household work an easier and enjoyable experience for you. We as a Cello Group are striving towards introducing a world-class lifestyle to every individual for an enduring relationship of trust and commitment."
+          }
+        ],
+        "rating": 4.5,
+        "certifications": "NA"
+      }
+    
+}

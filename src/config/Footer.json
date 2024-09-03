@@ -1,0 +1,74 @@
+{
+  "company": {
+    "name": "Ecoyaan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+  },
+  "links": {
+    "quickLinks": [
+      { "name": "Home", "path": "ROUTES.HOME" },
+      { "name": "Categories", "path": "ROUTES.CATEGORIES" },
+      { "name": "Challenges/ Pledges", "path": "ROUTES.CHALLENGES_PLEDGES" },
+      { "name": "Blogs", "path": "ROUTES.BLOG" },
+      { "name": "About Us", "path": "ROUTES.ABOUT_US" },
+      { "name": "Contact Us", "path": "ROUTES.CONTACT_US" },
+      { "name": "Join Our Team", "path": "ROUTES.CAREERS" }
+    ],
+    "legal": [
+      { "name": "Terms of Service", "path": "ROUTES.TERMS_OF_USE" },
+      { "name": "Privacy Policy", "path": "ROUTES.PRIVACY_POLICY" },
+      { "name": "Shipping and Return Policy","path": "ROUTES.SHIPPING_RETURN_POLICY" }
+    ]
+  },
+  "contact": {
+    "phone": "+91-9980490777",
+    "email": "support@ecoyaan.com",
+    "address": {
+      "AddressLine1": "1-N-12T-781/1",
+      "AddressLine2": "Sri Krishna Vilasa",
+      "AddressLine3": "Ashoknagar(MR)",
+      "AddressLine4": "Mangalore",
+      "AddressLine5": "Dakshina Kannada- 575006",
+      "AddressLine6": "Karnataka, India"
+    }
+  },
+  "socialMedia": [
+    {
+      "platform": "Instagram",
+      "icon": "faInstagram",
+      "url": "https://www.instagram.com/ecoyaan/"
+    },
+    {
+      "platform": "LinkedIn",
+      "icon": "faLinkedin",
+      "url": "https://www.linkedin.com/company/ecoyaan/"
+    },
+    {
+      "platform": "Facebook",
+      "icon": "faFacebook",
+      "url": "https://www.facebook.com/Ecoyaan/"
+    },
+    {
+      "platform": "YouTube",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "platform": "Twitter",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "platform": "Snapchat",
+      "icon": "",
+      "url": ""
+    }
+  ],
+  "subscribe": {
+    "title": "Subscribe for more",
+    "description": "Be a part of our community by subscribing to our newsletter. Receive updates on new arrivals, sales and more!",
+    "emailPlaceholder": "your email address",
+    "notificationText": "By subscribing, you are agreeing to receive notifications.",
+    "privacyPolicyText": "Privacy Policy",
+    "subscribeButtonText": "Subscribe"
+  }
+}

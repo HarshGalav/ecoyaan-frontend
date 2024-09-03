@@ -1,0 +1,36 @@
+{
+    "sectionTitle": "Blog Posts",
+    "featuredPost": {
+      "title": "Featured Blog Title",
+      "readTime": "7 min read",
+      "imageUrl": "https://c4.wallpaperflare.com/wallpaper/761/372/39/nature-landscape-greenery-field-wallpaper-preview.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quos eius incidunt voluptas natus quaerat assumenda laborum nobis voluptatem deleniti?"
+    },
+    "blogPosts": [
+      {
+        "title": "Blog Title",
+        "readTime": "7 min read",
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/bdbb/2c18/a0dacc7b7392305f1b2baa5ca87bb993?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qjjbwI9CgW7Rzdjf0MPd9LKXhH4ZDKiBeKYGCyWc1DSTxwiiTpMeJ3qtsJX0LZ7a1bcrOf-y1NH5j59iiQ1ZEKv5E1HZvibTrjEszkhzQBgRwkzuT7aulgaqsAnNn~8WEGUWD6sOMSIs7VqkTnf1Wf3ea2ckUR2HgAKsUplDgS88RCQ-KGOE0-FX6D~Q~IO6ODe0LacpjM5yljwogyBgD2Lp5IG33hT10XOGeOCN6kLUBfwN6tyM6C2OzYXI~l~H1HhuR3nCtKnmrumFSU9CTjkzK492X~QDgOChepxh9lt9SS9gHzWZ~sn4vTQHQUJX1~8Hu5iP9pFXS9ThCMtecA__",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quos eius incidunt voluptas natus quaerat assumenda laborum nobis voluptatem deleniti?"
+      },
+      {
+        "title": "Blog Title",
+        "readTime": "7 min read",
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/bdbb/2c18/a0dacc7b7392305f1b2baa5ca87bb993?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qjjbwI9CgW7Rzdjf0MPd9LKXhH4ZDKiBeKYGCyWc1DSTxwiiTpMeJ3qtsJX0LZ7a1bcrOf-y1NH5j59iiQ1ZEKv5E1HZvibTrjEszkhzQBgRwkzuT7aulgaqsAnNn~8WEGUWD6sOMSIs7VqkTnf1Wf3ea2ckUR2HgAKsUplDgS88RCQ-KGOE0-FX6D~Q~IO6ODe0LacpjM5yljwogyBgD2Lp5IG33hT10XOGeOCN6kLUBfwN6tyM6C2OzYXI~l~H1HhuR3nCtKnmrumFSU9CTjkzK492X~QDgOChepxh9lt9SS9gHzWZ~sn4vTQHQUJX1~8Hu5iP9pFXS9ThCMtecA__",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quos eius incidunt voluptas natus quaerat assumenda laborum nobis voluptatem deleniti?"
+      },
+      {
+        "title": "Blog Title",
+        "readTime": "7 min read",
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/bdbb/2c18/a0dacc7b7392305f1b2baa5ca87bb993?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qjjbwI9CgW7Rzdjf0MPd9LKXhH4ZDKiBeKYGCyWc1DSTxwiiTpMeJ3qtsJX0LZ7a1bcrOf-y1NH5j59iiQ1ZEKv5E1HZvibTrjEszkhzQBgRwkzuT7aulgaqsAnNn~8WEGUWD6sOMSIs7VqkTnf1Wf3ea2ckUR2HgAKsUplDgS88RCQ-KGOE0-FX6D~Q~IO6ODe0LacpjM5yljwogyBgD2Lp5IG33hT10XOGeOCN6kLUBfwN6tyM6C2OzYXI~l~H1HhuR3nCtKnmrumFSU9CTjkzK492X~QDgOChepxh9lt9SS9gHzWZ~sn4vTQHQUJX1~8Hu5iP9pFXS9ThCMtecA__",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quos eius incidunt voluptas natus quaerat assumenda laborum nobis voluptatem deleniti?"
+      },
+      {
+        "title": "Blog Title",
+        "readTime": "7 min read",
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/bdbb/2c18/a0dacc7b7392305f1b2baa5ca87bb993?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qjjbwI9CgW7Rzdjf0MPd9LKXhH4ZDKiBeKYGCyWc1DSTxwiiTpMeJ3qtsJX0LZ7a1bcrOf-y1NH5j59iiQ1ZEKv5E1HZvibTrjEszkhzQBgRwkzuT7aulgaqsAnNn~8WEGUWD6sOMSIs7VqkTnf1Wf3ea2ckUR2HgAKsUplDgS88RCQ-KGOE0-FX6D~Q~IO6ODe0LacpjM5yljwogyBgD2Lp5IG33hT10XOGeOCN6kLUBfwN6tyM6C2OzYXI~l~H1HhuR3nCtKnmrumFSU9CTjkzK492X~QDgOChepxh9lt9SS9gHzWZ~sn4vTQHQUJX1~8Hu5iP9pFXS9ThCMtecA__",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quos eius incidunt voluptas natus quaerat assumenda laborum nobis voluptatem deleniti?"
+      }
+    ]
+  }
+  

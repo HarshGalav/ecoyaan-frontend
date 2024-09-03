@@ -1,0 +1,74 @@
+{
+  "sectionTitle": "Ecoyaan Impact",
+  "impacts": [
+    {
+      "title": "Carbon Emission",
+      "details": [
+        {
+          "heading": "Total Carbon Emissions",
+          "value": "1.5 tons"
+        },
+        {
+          "heading": "Carbon Emissions Saved",
+          "value": "0.5 tons"
+        },
+        {
+          "heading": "Equivalent Trees Planted",
+          "value": "425"
+        },
+        {
+          "heading": "Carbon Footprint Reduction",
+          "value": "33%"
+        }
+      ],
+      "buttonText": "Check Impact",
+      "image": "/images/carbon.png"
+    },
+    {
+      "title": "Water Conservation",
+      "details": [
+        {
+          "heading": "Total Water Saved",
+          "value": "2000 liters"
+        },
+        {
+          "heading": "Water Saved",
+          "value": "800 liters"
+        },
+        {
+          "heading": "Equivalent Trees Planted",
+          "value": "150"
+        },
+        {
+          "heading": "Water Footprint Reduction",
+          "value": "40%"
+        }
+      ],
+      "buttonText": "Check Impact",
+      "image": "/images/carbon.png"
+    },
+    {
+      "title": "Energy Efficiency",
+      "details": [
+        {
+          "heading": "Total Energy Saved",
+          "value": "500 kWh"
+        },
+        {
+          "heading": "Energy Saved",
+          "value": "200 kWh"
+        },
+        {
+          "heading": "Equivalent Trees Planted",
+          "value": "300"
+        },
+        {
+          "heading": "Energy Footprint Reduction",
+          "value": "50%"
+        }
+      ],
+      "buttonText": "Check Impact",
+      "image": "/images/carbon.png"
+    }
+  ]
+}

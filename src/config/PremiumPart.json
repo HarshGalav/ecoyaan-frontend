@@ -1,0 +1,36 @@
+{
+    "sectionTitle": "Best of Premium",
+    "premiumPart": [
+      {
+        "name": "Bare necessity1",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FbNwNefDL._AC_UL320_.jpg"
+      },
+      {
+        "name": "Bare necessity2",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://m.media-amazon.com/images/I/616RzGKcERL._AC_UL320_.jpg"
+      },
+      {
+        "name": "Bare necessity3",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mQQbEcqML._AC_UL320_.jpg"
+      },
+      {
+        "name": "Bare necessity4",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrccW4rIcV7PdyAhXsDzrKbdb_jBUYpHYKIBsEDPsHYC830rlJYASSkjJbuJ7aSGSgLVM&usqp=CAU"
+      },
+      {
+        "name": "Bare necessity5",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://m.media-amazon.com/images/I/81yCCF-xyaS._AC_UL320_.jpg"
+      },
+      {
+        "name": "Bare necessity6",
+        "description": "100% vegan & plastic free",
+        "imageUrl": "https://m.media-amazon.com/images/I/91s6ZicOqZL._AC_UL320_.jpg"
+      }
+    ]
+  }
+  

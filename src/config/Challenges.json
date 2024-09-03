@@ -1,0 +1,748 @@
+{
+  "sustainabilityContent": {
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/3f8d/bb6b/ea02d615cc6b46e605d55322d40ec455?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QcCkx1oOrpicWR3En7fBEytAwie11B8~l0YCvHHh5-ysm5EiEz1nKTZSNg28WhOxJDpi-a1kMIZXxOpckyc~9GzzvsdzRrjrL22sOdNVNwO4iIHmpJNHpatgCBLOu4-cfbYL4ZTNTlKQlzDdUTdNWmHmfM5tLqdR-xPUBvbzJYWW3TtXKuyWSjcGG5Sze1LBlj~J~I2gofw2~A4nE6W4Mv8ThQiOzUfg2dmz-esRcBoflowq0FN70ivvH54f28CGtn5tfO3AFGW48qC4A7XpFWYmmJIl1nUtisnc7zojw6v-OfvtaCZKzR5XcWCXQz287JdSh7zYN5eKCnJE-XnLVA__",
+    "title": "Towards Sustainability",
+    "subtitle": "Strategize & reduce greenhouse gas emissions"
+  },
+  "weeklyChallenges": [
+    {
+      "title": "5 Indoor Plants",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil. ",
+      "impact": 2,
+      "difficulty": 5,
+      "category": "DIY",
+      "challengeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM0RsKrXBhDyfc4Knsp5SUcnvdKWiw6cNne2MbLINZQoMNGh6uNmmTiJ_2lhMoiWZ5_gI&usqp=CAU",
+      "completedCount": 200,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Upcycle Items",
+      "description": "Turn everyday objects into something new and useful.",
+      "about": "Upcycling is a creative way to give old items a new life. Instead of throwing away used or old items, you can transform them into something functional or beautiful. This challenge will guide you through the process of upcycling various household items, helping to reduce waste and promote sustainability.",
+      "impact": 4,
+      "difficulty": 2,
+      "category": "Upcycle",
+      "challengeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjz9R7KhcbJUTuNOqWC_fUWDpl-OaZvmawqaSVY_dA7PbxL2Xt5cO2WvSmO6y13rBAB2E&usqp=CAU",
+      "completedCount": 190,
+      "instructions": {
+        "heading": "Upcycling Guide",
+      "description": "Follow these steps to upcycle household items into new and useful creations:",
+      "steps": [
+        {
+          "heading": "1. Gather Materials",
+          "description": "Collect items around your home that can be upcycled:",
+          "substeps": [
+            "Old jars and bottles for storage solutions.",
+            "Used clothes and fabrics for new accessories.",
+            "Wooden pallets or crates for furniture projects.",
+            "Tin cans for planters or organizers."
+          ]
+        },
+        {
+          "heading": "2. Plan Your Project",
+          "description": "Decide what you want to create and gather necessary tools:",
+          "substeps": [
+            "Sketch your design or look for inspiration online.",
+            "Ensure you have tools like glue, paint, scissors, and screws."
+          ]
+        },
+        {
+          "heading": "3. Clean and Prepare",
+          "description": "Clean the items thoroughly before starting your project:",
+          "substeps": [
+            "Wash and dry jars, bottles, and cans.",
+            "Remove any labels or stickers from items."
+          ]
+        },
+        {
+          "heading": "4. Start Upcycling",
+          "description": "Transform the items into new creations:",
+          "substeps": [
+            "Follow your plan to upcycle the items.",
+            "Use paint, glue, and other materials to achieve the desired look."
+          ]
+        },
+        {
+          "heading": "5. Add Finishing Touches",
+          "description": "Complete your project with final details:",
+          "substeps": [
+            "Decorate with paint, stickers, or fabric as needed.",
+            "Ensure all parts are securely attached and functional."
+          ]
+        },
+        {
+          "heading": "6. Showcase Your Creation",
+          "description": "Display or use your upcycled item proudly:",
+          "substeps": [
+            "Place it in a prominent spot in your home.",
+            "Share your project with friends and family for inspiration."
+          ]
+        }
+      ]
+    
+    }
+    },
+    {
+      "title": "Repair items",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil.",
+      "impact": 3,
+      "difficulty": 4,
+      "category": "Reuse",
+      "challengeImage": "https://www.thesimplicityhabit.com/wp-content/uploads/2022/03/1-10-1024x683.jpg",
+      "completedCount": 100,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Take Shorter Showers",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil.",
+      "impact": 1,
+      "difficulty": 5,
+      "category": "Recycle",
+      "challengeImage": "https://carleton.ca/communityfirst/wp-content/uploads/12-Showers-.jpg",
+      "completedCount": 380,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Energy-Saving Week",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil.",
+      "impact": 1,
+      "difficulty": 5,
+      "category": "Recycle",
+      "challengeImage": "https://nationaltoday.com/wp-content/uploads/2022/06/Energy-Saving-Week.jpg",
+      "completedCount": 300,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "EcoChallenges": [
+    {
+      "title": "Eco Challenge",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil. ",
+      "impact": 2,
+      "difficulty": 5,
+      "category": "DIY",
+      "challengeImage": "https://cdn.shopify.com/s/files/1/0512/4823/4660/files/eco_friendly_products_480x480.jpg?v=1652848259",
+      "completedCount": 200,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Upcycle Items",
+      "description": "Turn everyday objects into something new and useful.",
+      "about": "Upcycling is a creative way to give old items a new life. Instead of throwing away used or old items, you can transform them into something functional or beautiful. This challenge will guide you through the process of upcycling various household items, helping to reduce waste and promote sustainability.",
+      "impact": 4,
+      "difficulty": 2,
+      "category": "Upcycle",
+      "challengeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxl3YjDNPOgyEr_CXr5xJyyfkKg12E3hO7Ef4ef6nn_Q0fMFhnUQoKvp4AGLbOSYp-kAw&usqp=CAU",
+      "completedCount": 190,
+      "instructions": {
+        "heading": "Upcycling Guide",
+      "description": "Follow these steps to upcycle household items into new and useful creations:",
+      "steps": [
+        {
+          "heading": "1. Gather Materials",
+          "description": "Collect items around your home that can be upcycled:",
+          "substeps": [
+            "Old jars and bottles for storage solutions.",
+            "Used clothes and fabrics for new accessories.",
+            "Wooden pallets or crates for furniture projects.",
+            "Tin cans for planters or organizers."
+          ]
+        },
+        {
+          "heading": "2. Plan Your Project",
+          "description": "Decide what you want to create and gather necessary tools:",
+          "substeps": [
+            "Sketch your design or look for inspiration online.",
+            "Ensure you have tools like glue, paint, scissors, and screws."
+          ]
+        },
+        {
+          "heading": "3. Clean and Prepare",
+          "description": "Clean the items thoroughly before starting your project:",
+          "substeps": [
+            "Wash and dry jars, bottles, and cans.",
+            "Remove any labels or stickers from items."
+          ]
+        },
+        {
+          "heading": "4. Start Upcycling",
+          "description": "Transform the items into new creations:",
+          "substeps": [
+            "Follow your plan to upcycle the items.",
+            "Use paint, glue, and other materials to achieve the desired look."
+          ]
+        },
+        {
+          "heading": "5. Add Finishing Touches",
+          "description": "Complete your project with final details:",
+          "substeps": [
+            "Decorate with paint, stickers, or fabric as needed.",
+            "Ensure all parts are securely attached and functional."
+          ]
+        },
+        {
+          "heading": "6. Showcase Your Creation",
+          "description": "Display or use your upcycled item proudly:",
+          "substeps": [
+            "Place it in a prominent spot in your home.",
+            "Share your project with friends and family for inspiration."
+          ]
+        }
+      ]
+    
+    }
+    },
+    {
+      "title": "Repair items",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil.",
+      "impact": 3,
+      "difficulty": 4,
+      "category": "Reuse",
+      "challengeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ktihSC2k292HIvEQM-sVRo7mRnskHj7eVCfrb1xcs7Ox2Unk-VS7tI6Z3g6r4o55180&usqp=CAU",
+      "completedCount": 100,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Take Shorter Showers",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil.",
+      "impact": 1,
+      "difficulty": 5,
+      "category": "Recycle",
+      "challengeImage": "https://i0.wp.com/www.mychesco.com/wp-content/uploads/2020/12/environmental-volunteers_miodrag-ignjatovic_Getty-Images-Signature.jpg?fit=735%2C400&ssl=1",
+      "completedCount": 380,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Energy-Saving Week",
+      "description": "Strategize & reduce greenhouse gas emissions",
+      "about": "Growing indoor plants can not only beautify your living space but also help purify the air and improve your overall well-being. In this challenge, you will learn how to select, plant, and care for five different indoor plants. Start by choosing plants that thrive indoors, such as the resilient Snake Plant, the air-purifying Spider Plant, the low-maintenance ZZ Plant, the elegant Peace Lily, and the lush Pothos. Each plant has unique requirements for light, water, and soil.",
+      "impact": 1,
+      "difficulty": 5,
+      "category": "Recycle",
+      "challengeImage": "https://cdn.shopify.com/s/files/1/0070/7032/files/blank_tote_merch_swag_fashion_print_on_demand.jpg?v=1689965049",
+      "completedCount": 300,
+      "instructions": {
+        "heading": "Plant Care Guide",
+        "description": "Follow these steps to ensure your indoor plants thrive:",
+        "steps": [
+          {
+            "heading": "1. Select Your Plants",
+            "description": "Choose indoor plants that suit your environment and preferences:",
+            "substeps": [
+              "Snake Plant: Thrives in low light and needs minimal watering.",
+              "Spider Plant: Excellent for air purification, prefers bright, indirect light.",
+              "ZZ Plant: Low-maintenance, tolerates low light and infrequent watering.",
+              "Peace Lily: Prefers bright, indirect light and consistently moist soil."
+            ]
+          },
+          {
+            "heading": "2. Prepare Your Pots",
+            "description": "Set up your pots for optimal plant growth and health:",
+            "substeps": [
+              "Choose pots with drainage holes to prevent waterlogging.",
+              "Add a layer of pebbles at the bottom to enhance drainage."
+            ]
+          },
+          {
+            "heading": "3. Planting",
+            "description": "Plant your indoor plants correctly for best results:",
+            "substeps": [
+              "Fill the pots with appropriate potting mix.",
+              "Plant each chosen indoor plant carefully."
+            ]
+          },
+          {
+            "heading": "4. Watering",
+            "description": "Establish a watering routine to keep your plants healthy:",
+            "substeps": [
+              "Follow specific watering schedules for each plant to ensure optimal growth and health."
+            ]
+          },
+          {
+            "heading": "5. Light Requirements",
+            "description": "Place your indoor plants in suitable lighting conditions:",
+            "substeps": [
+              "Ensure each plant gets the right amount of light to maintain health and vigor."
+            ]
+          },
+          {
+            "heading": "6. Maintenance",
+            "description": "Keep your indoor plants thriving with regular care:",
+            "substeps": [
+              "Regularly dust the leaves to remove dust buildup.",
+              "Prune dead foliage to promote new growth.",
+              "Rotate plants periodically for even sunlight exposure."
+            ]
+          },
+          {
+            "heading": "7. Enjoy the Benefits",
+            "description": "Appreciate the positive impacts of indoor plants on your home and well-being:",
+            "substeps": [
+              "Revel in the improved air quality and aesthetic appeal.",
+              "Celebrate the growth and health of your indoor plants."
+            ]
+          }
+        ]
+      }
+    }
+  ],
+      "filterCategories": [
+        {
+          "id": "1",
+          "name": "DIY"
+        },
+        {
+          "id": "2",
+          "name": "Upcycle"
+        },
+        {
+          "id": "3",
+          "name": "Reuse"
+        },
+        {
+          "id": "4",
+          "name": "Recycle"
+        }
+      ]
+    
+}

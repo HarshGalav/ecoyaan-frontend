@@ -1,0 +1,83 @@
+{
+    "sectionTitle": "Recently Purchased",
+    "product": {
+      "recently_purchased": [
+        {
+          "id": 55,
+          "name": "Eco-Friendly Tote Bag",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PJAMUyagG_JE4qWXlCMqLKaqouqBxHDp2Q&s",
+          "rating": 4.8,
+          "reviews_count": 42,
+          "discount": "25% off",
+          "price": 1500,
+          "mrp": 2000,
+          "in_stock": true,
+          "attributes": [
+            {
+              "name": "Vegan",
+              "img": "/images/leaf.png"
+            },
+            {
+              "name": "Sustainable",
+              "img": "/images/leaf.png"
+            },
+            {
+              "name": "Toxic Free",
+              "img": "/images/toxic_free.png"
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "name": "Recycled Notebook",
+          "image": "https://images.ethicalsuperstore.com/images/homepage/width433/Ethical-superstore-holiday-shop-feature-120624.jpg",
+          "rating": 4.3,
+          "reviews_count": 18,
+          "discount": "10% off",
+          "price": 450,
+          "mrp": 500,
+          "in_stock": false,
+          "attributes": [
+            {
+              "name": "Recycled",
+              "img": "/images/leaf.png"
+            },
+            {
+              "name": "Sustainable",
+              "img": "/images/leaf.png"
+            },
+            {
+              "name": "Toxic Free",
+              "img": "/images/toxic_free.png"
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "name": "Organic Cotton T-Shirt",
+          "image": "https://images.ethicalsuperstore.com/images/homepage/width433/Ethical-superstore-holiday-shop-feature-120624.jpg",
+          "rating": 4.6,
+          "reviews_count": 35,
+          "discount": "20% off",
+          "price": 800,
+          "mrp": 1000,
+          "in_stock": true,
+          "attributes": [
+            {
+              "name": "Organic",
+              "img": "/images/leaf.png"
+            },
+            {
+              "name": "Sustainable",
+              "img": "/images/leaf.png"
+            },
+            {
+              "name": "Fair Trade",
+              "img": "/images/toxic_free.png"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

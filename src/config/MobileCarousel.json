@@ -1,0 +1,57 @@
+[
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/0158/88f3/01a1d303b726314e8f86eb3036335931?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pjsyHV58BbOiJJCL8~rs4zo4bgc5EtCSR7Ivm9lgg1wiKtlyNsqKVNmp12ybBOPcWkvkaXq1r7Wp6BQkOUI~0kJA35m7-xD02bUyg7oCsXdn-~dnTTcw7Cvd9-ah-3YcGZ38-l~W2WN-ONi06hm1uC3IX3OebFoPJlWRhJ6thsa~x5GZQE3uJzRMgZCQEiIU61rajAqkCmgn14QW7M~8IpS60PcjKdVXLiX-oLLRVqdqdV1pNuodG0oKyZyVJu8iqjnDUJC6WUhkwnxbimiQH483XcCmGaiUk11uKZiB2hajtWXV54xfSWC8Yeq6~RVKUoGS2xyFgvCO288Ehk8ooQ__",
+      "path": "/about-us",
+      "isExternal": false,
+      "text1": "Small steps. Big impact.",
+      "buttonText": "About Us"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/1280/10d2/31c4f3b1f7023691a914bb5f1e340069?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mfY5Y27QRfFqS2-NYOkanrm9R86OM2Y6WkZgjVck3sW3DAbFrkp6n3v~lkH9bBNXPpeamWg1tjtNe6751UvZfb9JKxzUhNdVSLO7OsRzwGxj0duQdIJXm3UmwnJHzhYCJ0srMy3mKNEGJc4~pNVIgW0jJn~SXPf5jiK82UXwfopj7vUCbDg2UgV5Mb6jMjzk8eQz5I2lGCI9ontwzxv8q5Lwt9SEvWo8Th24xuarY4lPQXTkieFF1iZgulIqcn5psfPMBo6i-y1evgPMS1IoxvwGfBIVimL94NAUGBosKaCI9YFEJIOn8W6byrIYwEulzacNhT6v~IX7NTT1QCiCgg__",
+      "isExternal": true,
+      "text1": "Rethink, Reuse, Revolutionize",
+      "buttonText": "Follow Us",
+      "buttonStyle": ""
+    },
+    {
+      "image": "/images/carousel-3.png",
+      "path": "/sellOnEcoyaan",
+      "isExternal": false,
+      "text1": "Every Choice counts. Choose wisely.",
+      "textClass": "longText",
+      "buttonText": "Get In Touch",
+      "imageClass": "img-opacity",
+      "buttonClass": "btn-position"
+    },
+    {
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/041/262/808/small_2x/ai-generated-blossoming-pink-cherry-trees-in-vibrant-spring-meadow-photo.jpg",
+        "path": "/sellOnEcoyaan",
+        "isExternal": false,
+        "text1": "Make conscious consumption.",
+        "textClass": "longText",
+        "buttonText": "Be Sustainable",
+        "imageClass": "img-opacity",
+        "buttonClass": "btn-position"
+      },
+      {
+          "image": "https://mytoastlife.com/wp-content/uploads/2022/06/illustration-sustainable-home-products.jpeg",
+          "path": "/sellOnEcoyaan",
+          "isExternal": false,
+          "text1": "Make conscious consumption.",
+          "textClass": "longText",
+          "buttonText": "Be Sustainable",
+          "imageClass": "img-opacity",
+          "buttonClass": "btn-position"
+        },
+        {
+            "image": "https://dutchuncles.in/wp-content/uploads/2022/03/wepik-2022221-18110-1920x1280.jpg",
+            "path": "/sellOnEcoyaan",
+            "isExternal": false,
+            "text1": "Every Choice counts. Choose wisely.",
+            "textClass": "longText",
+            "buttonText": "Be Sustainable",
+            "imageClass": "img-opacity",
+            "buttonClass": "btn-position"
+          }
+  ]
+  

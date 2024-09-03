@@ -1,0 +1,20 @@
+{
+    "sectionTitle": "Why should you buy from us?",
+    "buyFromUs": [
+      {
+        "title": "Title 1",
+        "imageSrc": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSECB89lcAW18Mj8oXo_8eRW0-oL_d4xWWbnh1UKyJlCq0Jz8MTvnI5XmClXWKhiFcTusf6efnYR9aErvgsFua7R-kinA2gUFmdkoqgCrf2cMBN0bvqrhAxg&usqp=CAE",
+        "descriptionTitle": "Lorem ipsum dolor sit amet",
+        "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit dolor sit amet, consectetur adipisicing elit ollitia Possimus .",
+        "color": "aliceblue"
+      },
+      {
+        "title": "Title 1",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uh6zg1-eAz0KtvNTR1bOe3miBBgbOWy1MBN9tTyw4CN1MKdme-OMHUUSbLAC4_sChBU&usqp=CAU",
+        "descriptionTitle": "Lorem ipsum dolor sit amet",
+        "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit dolor sit amet, consectetur adipisicing elit ollitia Possimus .",
+        "color": "#F5FDFF"
+      }
+    ]
+  }
+  

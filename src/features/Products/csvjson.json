@@ -1,0 +1,337 @@
+[
+  {
+    "id":1,
+    "Title": " Soft Bamboo Tooth Brush - Set of 4",
+    "Price": 225.00,
+    "Rating": 4.9,
+    "Image_URL": "https://miro.medium.com/v2/resize:fit:1358/0*kcUTxsr_gmhfy_Q_",
+    "Discription": "Sustainable Brush"
+  },
+  {
+    "id":2,
+    "Title": "Gentle Scrubber Coconut Coir Scrubber - Set of 5",
+    "Price": 195.00,
+    "Rating": 4.86,
+    "Image_URL": "https://www.loopify.world/media/catalog/product/cache/dbe2529ab2406544782db7656640aa6b/m/p/mpcb-123_bi.webp",
+    "Discription": "synthetic scrubbers"
+  },
+  {
+    "id":3,
+    "Title": "Natural Body Loofah",
+    "Price": 160.00,
+    "Rating": 5,
+    "Image_URL": "https://m.media-amazon.com/images/I/61CybqpGdiL._AC_UL320_.jpg",
+    "Discription": "Achieve smooth"
+  },
+  {
+    "id":4,
+    "Title": "Ecotyl - 100% Organic I Sustainable Stainless Steel Straw (Set of 4) + Cleaning Brush",
+    "Price": 300.00,
+    "Rating": 4.88,
+    "Image_URL": "https://static.wixstatic.com/media/3774f2_e9b4b4d7d5fe47a588c6232f0a38e0a6~mv2.jpg/v1/fill/w_980,h_735,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3774f2_e9b4b4d7d5fe47a588c6232f0a38e0a6~mv2.jpg",
+    "Discription": "plastic-free."
+  },
+  {
+    "id":5,
+    "Title":"Bamboo Tongue Cleaner",
+    "Price": 160.00,
+    "Rating": 4.44,
+    "Image_URL": "https://m.media-amazon.com/images/I/81otL50wd9L._AC_UL320_.jpg",
+    "Discription": "environmentally conscious."
+  },
+  {
+    "id":6,
+    "Title": "Bamboo Straw With Cleaning Brush - Set of 6",
+    "Price": 240.00,
+    "Rating": 4.8,
+    "Image_URL": "https://m.media-amazon.com/images/I/71GH3xOjGvL._AC_UL320_.jpg",
+    "Discription": "reducing plastic waste."
+  },
+  {
+    "id":7,
+    "Title": "Neem Wood Comb Combo (Detangling & Shampoo) - Set of 2",
+    "Price": 240.00,
+    "Rating": 4.7,
+    "Image_URL": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqWHwSDf4MibgGb4yKYy5EdHBjoFrCGxUiB12eWCw5pKdTRcYH1EIanonR0gQb1XYxjUnWljcYK1okcD9QuIuGQGRJxZn-OlwBUJMWcrw&usqp=CAE",
+    "Discription":"hair care routine."
+  },
+  {
+    "id":8,    
+    "Title": "Bamboo Stainless Steel Insulated Flask",
+    "Price": 649.00,
+    "Rating": 0,
+    "Image_URL": "https://www.thestylesalad.in/cdn/shop/products/EDI_1024x1024@2x.jpg?v=1678787600",
+    "Discription": "bamboo stainless steel"
+  },
+  {
+    "id":9,
+    "Title": "100% Natural Coconut Shell Candle - Patchouli & Rosewood",
+    "Price": 300.00,
+    "Rating": 5,
+    "Image_URL": "https://brownliving.in/cdn/shop/products/2-organic-cotton-kitchen-towels-with-plant-based-dyes-18-x-27-uc-108-ockt-s2-sw-kitchen-linens-314565_600x.jpg?v=1682959835",
+    "Discription": "Create a calming"
+  },
+  {
+    "id":10,
+    "Title": "Insect Repellent Citronella Oil",
+    "Price": 360.00,
+    "Rating": 0,
+    "Image_URL": "https://m.media-amazon.com/images/I/71QaJBTeMrL._AC_UL320_.jpg",
+    "Discription": "Keep ward off insects."
+  },
+  {
+    "id":11,
+    "Title": "Natural Body Loofah Vetiver Scrubber - Set of 3",
+    "Price": 210.00,
+    "Rating": 4.38,
+    "Image_URL": "https://m.media-amazon.com/images/I/81tbzunj0XL._AC_UL320_.jpg",
+    "Discription": "earthy touch."
+  },
+  {
+    "id":12,
+    "Title": "Natural Sandalwood Powder",
+    "Price": 315.00,
+    "Rating": 4.72,
+    "Image_URL": "https://m.media-amazon.com/images/I/91zoZFWlwcL._AC_UL320_.jpg",
+    "Discription": "facial masks"
+  },
+  {
+    "id":13,    
+    "Title": "Pure Arabica Coffee Powder",
+    "Price": 255.00,
+    "Rating": 4.8,
+    "Image_URL": "https://m.media-amazon.com/images/I/7179+pJyL9L._AC_UL320_.jpg",
+    "Discription": "brewing experience."
+  },
+  {
+    "id":14,
+    
+    "Title": "100% Natural Coconut Milk & Vanilla Soap - Set of 2",
+    "Price": 245.00,
+    "Rating": 5,
+    "Image_URL": "https://m.media-amazon.com/images/I/61Heek2W+sL._AC_UL320_.jpg",
+    "Discription": "delightful fragrance"
+  },
+  {
+    "id":15,
+    
+    "Title": "Face Pack Natural Multani Mitti",
+    "Price": 180.00,
+    "Rating": 4.43,
+    "Image_URL": "https://m.media-amazon.com/images/I/61xCK0SU4gL._AC_UL320_.jpg",
+    "Discription": "radiant complexion."
+  },
+  {
+    "id":16,
+    "Title": "100% Natural Skin Care Combo - Sandalwood Powder & Multani Mitti",
+    "Price": 385.00,
+    "Rating": 4.53,
+    "Image_URL": "https://m.media-amazon.com/images/I/61A-KpFM9fL._AC_UL320_.jpg",
+    "Discription": "masks and treatments."
+  },
+  {
+    "id":17,
+    
+    "Title": "100% Natural Beetroot Powder",
+    "Price": 185.00,
+    "Rating": 0,
+    "Image_URL": "https://i.etsystatic.com/33112896/r/il/3077dc/4894586193/il_600x600.4894586193_rps0.jpg",
+    "Discription": "DIY skincare."
+  },
+  {
+    "id":18,
+    "Title": "Ayurvedic Hair Oil",
+    "Price": 320.00,
+    "Rating": 4.42,
+    "Image_URL": "//ecotyl.in/cdn/shop/files/AYURVEDICHAIROIL1_300x@2x.jpg?v=1702456866",
+    "Discription": "hair care solution."
+  },
+  {
+    "id":19,
+    
+
+    "Title": "100% Natural Ubtan Face Cleanser",
+    "Price": 300.00,
+    "Rating": 4.6,
+    "Image_URL": "//ecotyl.in/cdn/shop/files/UBTANFACEWASH1_300x@2x.jpg?v=1702452812",
+    "Discription": "Cleanse your face"
+  },
+  {
+    "id":20,
+    
+    "Title": "100% Natural Cold-Pressed Almond Oil (Sweet)",
+    "Price": 405.00,
+    "Rating": 4.72,
+    "Image_URL": "https://i.etsystatic.com/31191640/r/il/e63d25/4879026730/il_600x600.4879026730_2bpu.jpg",
+    "Discription": "radiant look."
+  },
+  {
+    "id":21,
+    "Title": "Cold Pressed Virgin Coconut Oil",
+    "Price": 385.00,
+    "Rating": 0,
+    "Image_URL": "https://brownliving.in/cdn/shop/products/3-in-1-facial-roller-lamina-1-massager-918873_200x.jpg?v=1705932243",
+    "Discription": "skincare benefits."
+  },
+  {
+    "id":22,
+    
+    "Title": "100% Natural Shea Butter Soaps - Ubtan, Rose & Coffee - Set of 3",
+    "Price": 360.00,
+    "Rating": 4.33,
+    "Image_URL": "https://i.etsystatic.com/47293966/c/2228/2228/0/0/il/24a261/5417067979/il_600x600.5417067979_s7ed.jpg",
+    "Discription": "Rose and Coffee variants"
+  },
+  {
+    "id":23,
+    "Title": "Natural Hair Dye Ecotyl Hair Colour Combo - Henna Powder and Indigo Powder",
+    "Price": 300.00,
+    "Rating": 4.5,
+    "Image_URL": "https://brownliving.in/cdn/shop/products/the-lucky-turtle-biodegradable-eco-friendly-mobile-cover-phone-177-13995-turtl-13-001-tech-accessories-brown-living-295856_300x.jpg?v=1682968734",
+    "Discription": "color your hair."
+  },
+  {
+    "id":24,
+    "Title": "Natural Hair Dye Indigo Powder",
+    "Price": 175.00,
+    "Rating": 4.4,
+    "Image_URL": "https://brownliving.in/cdn/shop/files/satmya-gulkand_1_-resized_300x.jpg?v=1712135757",
+    "Discription": "vibrant hair."
+  },
+  {
+    "id":25,
+    
+    "Title": "Natural Hair Dye Henna Powder",
+    "Price": 175.00,
+    "Rating": 4.55,
+    "Image_URL": "https://brownliving.in/cdn/shop/files/date-seed-caffeine-free-filter-coffee-sugarfreelicious-sustainable-coffee-brown-living-119-241232_300x.jpg?v=1718051013",
+    "Discription": "chemical dyes."
+  },
+  {
+    "id":26,
+    
+    "Title": "100% Natural Coffee Body Scrub",
+    "Price": 340.00,
+    "Rating": 4.6,
+    "Image_URL": "https://brownliving.in/cdn/shop/products/perfect-essentials-gift-hamper-an-eco-friendly-plastic-free-gift-combo-tbb-56-gift-box-brown-living-858178_300x.jpg?v=1683296391",
+    "Discription": "glowing complexion."
+  },
+  {
+    "id":27,
+    "Title": "100% Natural Ayurvedic Hair Pack",
+    "Price": 255.00,
+    "Rating": 4.68,
+    "Image_URL": "https://brownliving.in/cdn/shop/products/aloka-baby-hamper-birdie-verified-sustainable-products-on-brown-living-629262_300x.jpg?v=1692256262",
+    "Discription": "traditional herbs"
+  },
+  {
+    "id":28,
+    "Title": "100% Natural Shea Butter Soaps - Ubtan, Rose & Coffee - Set of 3",
+    "Price": 360.00,
+    "Rating": 4.33,
+    "Image_URL": "https://i.etsystatic.com/47293966/c/2228/2228/0/0/il/24a261/5417067979/il_600x600.5417067979_s7ed.jpg",
+    "Discription": "100% natural shea butter soaps"
+  },
+  {
+    "id":29,
+    
+    "Title": "Face Pack Natural Multani Mitti",
+    "Price": 180.00,
+    "Rating": 4.43,
+    "Image_URL": "https://m.media-amazon.com/images/I/61xCK0SU4gL._AC_UL320_.jpg",
+    "Discription": "radiant complexion."
+  },
+  {
+    "id":30,
+    "Title": "100% Natural Skin Care Combo - Sandalwood Powder & Multani Mitti",
+    "Price": 385.00,
+    "Rating": 4.53,
+    "Image_URL": "https://m.media-amazon.com/images/I/61A-KpFM9fL._AC_UL320_.jpg",
+    "Discription": "masks and treatments."
+  },
+  {
+    "id":31,
+    
+    "Title": "100% Natural Beetroot Powder",
+    "Price": 185.00,
+    "Rating": 0,
+    "Image_URL": "https://i.etsystatic.com/33112896/r/il/3077dc/4894586193/il_600x600.4894586193_rps0.jpg",
+    "Discription": "DIY skincare."
+  },
+  {
+    "id":32,
+    "Title": "Ayurvedic Hair Oil",
+    "Price": 320.00,
+    "Rating": 4.42,
+    "Image_URL": "https://m.media-amazon.com/images/I/A1eZPCIeVvL._AC_UL320_.jpg",
+    "Discription": "holistic hair care solution."
+  },
+  {
+    "id":33,
+    
+    "Title": "100% Natural Shea Butter Soaps - Ubtan, Rose & Coffee - Set of 3",
+    "Price": 360.00,
+    "Rating": 4.33,
+    "Image_URL": "https://m.media-amazon.com/images/I/616RzGKcERL._AC_UL320_.jpg",
+    "Discription": "100% natural shea butter soaps"
+  },
+  {
+    "id":34,
+    "Title": "Natural Hair Dye Ecotyl Hair Colour Combo - Henna Powder and Indigo Powder",
+    "Price": 300.00,
+    "Rating": 4.5,
+    "Image_URL": "https://m.media-amazon.com/images/I/51unWfOROwS._AC_UL320_.jpg",
+    "Discription": "Ecotyl hair dye combo"
+  },
+  {
+    "id":35,
+    "Title": "Natural Hair Dye Indigo Powder",
+    "Price": 175.00,
+    "Rating": 4.4,
+    "Image_URL": "https://m.media-amazon.com/images/I/71F+b3GRUCL._AC_UL320_.jpg",
+    "Discription": "ensuring healthy and vibrant hair."
+  },
+  {
+    "id":36,
+    
+    "Title": "Natural Hair Dye Henna Powder",
+    "Price": 175.00,
+    "Rating": 4.55,
+    "Image_URL": "https://m.media-amazon.com/images/I/61uxIHW9QVL._AC_UL320_.jpg",
+    "Discription": "chemical dyes."
+  },
+  {
+    "id":37,
+    
+    "Title": "100% Natural Beetroot Powder",
+    "Price": 185.00,
+    "Rating": 0,
+    "Image_URL": "https://i.etsystatic.com/33112896/r/il/3077dc/4894586193/il_600x600.4894586193_rps0.jpg",
+    "Discription": "DIY skincare."
+  },
+  {
+    "id":38,
+    "Title": "Ayurvedic Hair Oil",
+    "Price": 320.00,
+    "Rating": 4.42,
+    "Image_URL": "https://m.media-amazon.com/images/I/A1eZPCIeVvL._AC_UL320_.jpg",
+    "Discription": "holistic hair care solution."
+  },
+  {
+    "id":39,
+    
+    "Title": "100% Natural Shea Butter Soaps - Ubtan, Rose & Coffee - Set of 3",
+    "Price": 360.00,
+    "Rating": 4.33,
+    "Image_URL": "https://m.media-amazon.com/images/I/616RzGKcERL._AC_UL320_.jpg",
+    "Discription": "color your hair."
+  },
+  {
+    "id":40,
+    "Title": "Natural Hair Dye Ecotyl Hair Colour Combo - Henna Powder and Indigo Powder",
+    "Price": 300.00,
+    "Rating": 4.5,
+    "Image_URL": "https://m.media-amazon.com/images/I/51unWfOROwS._AC_UL320_.jpg",
+    "Discription": "Ecotyl hair dye combo"
+  }
+]
